@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nhanvien</string>
+    <string-array name="Listdonvi">
+        <item> Phòng kế toán</item>
+        <item> Phòng tiếp thị</item>
+        <item> Phòng Quan hệ kinh doanh</item>
+        <item> Phòng kỹ thuật</item>
+        <item> Bộ phận Quản trị mạng</item>
+        <item> Trung tâm phần mềm</item>
+    </string-array>
+</resources>
